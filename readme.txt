@@ -13,8 +13,6 @@ Show Last posts of Arneweb in your dashboard
 
 Show Last posts of Arneweb in your dashboard
 
-= Support =
-http://arnejati.ir/
 
 == Installation ==
 
