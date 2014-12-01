@@ -1,6 +1,6 @@
 === Arne Feed ===
 Contributors: Alireza Nejati
-Tags: feed, wordpress, arneweb, arne feed, arneweb feed, arnefeed
+Tags: feed, wordpress, arneweb, arnefeed, arne feed, arneweb feed
 Requires at least: 3.6
 Stable tag: 1.0
 Tested up to: 4.0.1
