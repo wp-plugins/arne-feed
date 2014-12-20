@@ -16,7 +16,7 @@ wp_add_dashboard_widget( 'dashboard_Arne_feed', __("Arneweb Feed", "Arne"), 'das
 }
 add_action('wp_dashboard_setup', 'wp_admin_dashboard_add_news_feed_widget');
 function dashboard_Arne_feed_output() {
-echo '<div class="Arnerfeed">';
+echo '<div class="Arnefeed">';
 wp_widget_rss_output(array(
 'url' => 'http://arneweb.ir/feed',
 'title' => __('Show Last posts of Arneweb in your dashboard', 'Arne'),
