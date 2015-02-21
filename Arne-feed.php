@@ -33,6 +33,14 @@ wp_widget_rss_output(array(
 'show_author' => 1,
 'show_date' => 1
 ));
+wp_widget_rss_output(array(
+'url' => 'http://azar3eo.ir/feed',
+'title' => __('Show Last posts of Arneweb in your dashboard', 'Arne'),
+'items' => 1,
+'show_summary' => 1,
+'show_author' => 1,
+'show_date' => 1
+));
 echo "</div>";
 }
 // End //
