@@ -4,7 +4,7 @@ Plugin Name: Arne Feed
 Plugin URI: http://arneweb.ir
 Description: Show Last posts of <a target=_blank" href="http://Arneweb.ir">Arneweb.ir</a> in your dashboard.
 Author: Alireza Nejati
-Version: 1.0
+Version: 1.1
 Tags: feed, Arneweb, Arneweb feed, wordpress
 Author URI: http://arnejati.ir
 License: GPL
