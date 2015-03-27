@@ -18,7 +18,7 @@ add_action('wp_dashboard_setup', 'wp_admin_dashboard_add_news_feed_widget');
 function dashboard_Arne_feed_output() {
 echo '<div class="Arnefeed">';
 wp_widget_rss_output(array(
-'url' => 'http://arneweb.ir/feed',
+'url' => 'http://wp-parsi.com/feed',
 'title' => __('Show Last posts of Arneweb in your dashboard', 'Arne'),
 'items' => 2,
 'show_summary' => 1,
