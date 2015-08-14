@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mandegar Feed 1.0\n"
+"POT-Creation-Date: 2014-11-30 14:31+0330\n"
+"PO-Revision-Date: 2014-11-30 14:31+0330\n"
+"Last-Translator: Ghaem Omidi <ghaemomidi@yahoo.com>\n"
+"Language-Team: Mandegarweb <ghaemomidi@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../Arne-feed.php:15
+msgid "Arneweb Feed"
+msgstr "اخبار آرنه وب"
+
+#: ../Arne-feed.php:22 ../Arne-feed.php:30
+msgid "Show Last posts of Arneweb in your dashboard"
+msgstr "نمایش آخرین مطالب آرنه وب در پیشخوان شما"
+
+#~ msgid ""
+#~ "Arne Feed - Show valuable posts of <a target=_blank\" href=\"http://"
+#~ "Arneweb.ir\">Arneweb.ir</a> in your dashboard"
+#~ msgstr ""
+#~ "خوراک آرنه وب - نمایش مطالب ارزشمند <a target=_blank\" href=\"http://"
+#~ "arneweb.ir\">آرنه وب</a> در پیشخوان شما"
+
+#~ msgid "Parsi Font"
+#~ msgstr "پارسی فونت"
+
+#~ msgid "Settings saved."
+#~ msgstr "تنظیمات ذخیره شدند."
+
+#~ msgid "Font Size (px)"
+#~ msgstr "اندازه فونت (پیکسل)"
+
+#~ msgid "Select Font Size"
+#~ msgstr "- - - اندازه فونت را انتخاب کنید - - -"
+
+#~ msgid "Font Family"
+#~ msgstr "فونت ها"
+
+#~ msgid "Select font from list or type a font name below"
+#~ msgstr "فونت خود را از لیست زیر انتخاب نمایید"
+
+#~ msgid "You can also type a font name here"
+#~ msgstr "نام فونت مورد نظر خود را اینجا وارد نمایید."
+
+#~ msgid "Preview"
+#~ msgstr "پیش نمایش"
+
+#~ msgid "This text is just to test."
+#~ msgstr ".این متن فقط برای آزمایش است"
+
+#~ msgid "Download fonts"
+#~ msgstr "دریافت فونت ها"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Plugin Features"
+#~ msgstr "ویژگی های افزونه"
+
+#~ msgid "Beautiful dashboard by changing the font"
+#~ msgstr "زیبا کردن پیشخوان وردپرس با تغییر فونت"
+
+#~ msgid "Change font WordPress dashboard"
+#~ msgstr "تغییر فونت پنل مدیریت وردپرس"
+
+#~ msgid "Select a font from the list of available fonts"
+#~ msgstr "انتخاب فونت از لیست فونت های موجود"
+
+#~ msgid "The user can write the name of the own favorite font."
+#~ msgstr "کاربر می تواند نام فونت دلخواه خود را بنویسد."
+
+#~ msgid "This plugin is developed by Ghaem Omidi."
+#~ msgstr "این افزونه توسط قائم امیدی توسعه داده می شود."
+
+#~ msgid "Dedicated to the all users of WP-Parsi and Mandegarweb."
+#~ msgstr "تقدیم به تمامی کاربران وردپرس پارسی و ماندگار وب"
+
+#~ msgid "Your message was successfully sent. Thanks"
+#~ msgstr "پیام شما با موفقیت ارسال شد. باتشکر"
+
+#~ msgid "Please fill all fields."
+#~ msgstr "لطفا همه زمینه ها را پر کنید."
+
+#~ msgid ""
+#~ "If you want your favorite font to be used in plugin or you have comments "
+#~ "or suggestions please let us know via this form:"
+#~ msgstr ""
+#~ "اگر می خواهید فونت مورد علاقه تان در افزونه قرار گیرد یا پیشنهاد و "
+#~ "انتقادی دارید از طریق این فرم به ما اطلاع دهید:"
+
+#~ msgid "Name"
+#~ msgstr "نام"
+
+#~ msgid "Email"
+#~ msgstr "پست الکترونیکی"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Your Message"
+#~ msgstr "پیام شما"
+
+#~ msgid "Send"
+#~ msgstr "ارسال"
