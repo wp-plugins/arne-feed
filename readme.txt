@@ -26,3 +26,6 @@ Show Last posts of Arneweb in your dashboard
 
 = 1.0 =
 * Start Plugin
+
+= 1.2 =
+* Add manage_options
